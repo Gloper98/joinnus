@@ -8,7 +8,15 @@ body {
 }
 nav {
     background-color:#333;
+    padding: 0 1em;
 }
 .events {
     padding-top: 3em;
+}
+.feed {
+    margin: 1em 2em;
+}
+.price {
+    padding: 4px;
+    border-radius: 7px;
 }
