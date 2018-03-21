@@ -1,3 +1,6 @@
+import React from 'react';
+import PropTypes from 'prop-types';
+
 const data = [
     {
         place: 'theater',
@@ -274,9 +277,45 @@ const data = [
     
 ]
 
+const event = data.map((ev)=>{
+    return (
+        <div className="row">
+        <div className="col s12 m6">
+          <div className="card">
+            <div className="card-image">
+              <img src={ev.img}/>
+              <span className="card-title">{ev.title}</span>
+            </div>
+            <div className="card-content">
+              <p>{ev.about}</p>
+            </div>
+            <div className="card-action">
+              <a href="/">This is a link</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    )
+})
 
-
-/*export default (state, action) => {
-    
-    return state;
+const Events = () => {
+        return (
+            <div className='container events'>
+            {event}
+          </div>
+        )
+  }
+  
+  
+  /*SongsOrder.propTypes = {
+    songs: PropTypes.arrayOf(PropTypes.shape({
+      id: PropTypes.number.isRequired,
+      name: PropTypes.string.isRequired,
+      img: PropTypes.string.isRequired,
+      vote: PropTypes.number.isRequired,
+    }).isRequired).isRequired,
+  //   onSongsMoreClick: PropTypes.func.isRequired,
+  //   onSongsMinusClick: PropTypes.func.isRequired
   }*/
+  
+  export default Events;

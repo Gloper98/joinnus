@@ -3,18 +3,21 @@ import { createStore } from 'redux';
 import { Provider } from 'react-redux'
 import { render } from 'react-dom';
 import App from './components/App';
-import reducer from './reducers';
+/*import reducer from './reducers';*/
+import { BrowserRouter as Router, Route} from 'react-router-dom';
 import registerServiceWorker from './registerServiceWorker';
 import './css/main.css';
 
-const store = createStore(
+/*const store = createStore(
     reducer,
     window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()
-  )
+  )*/
   
   render(
-    <Provider store={store}>
-      <App />
+    <Provider>
+      <Router>
+        <Route path="/" component={App} />
+      </Router>
     </Provider>,
     document.getElementById('root')
   )

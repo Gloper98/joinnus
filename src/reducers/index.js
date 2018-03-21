@@ -1,6 +1,8 @@
-import { combineReducers } from 'redux'
+/*import { combineReducers } from 'redux';
+import reducer from './reducer';
 
-const todoApp = combineReducers({
+const indexReducer = combineReducers({
+    reducer
 })
 
-export default todoApp
+export default indexReducer;*/
