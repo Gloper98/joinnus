@@ -2,7 +2,7 @@ import React from 'react';
 
 const BuyTickets = ({seats, color, selected}) => {
   return(
-    <div className="col s12"> 
+    <div className="col s12">  
       <div className="card">
         <div className="card-image center-align">
           {seats.map((seat)=> {
