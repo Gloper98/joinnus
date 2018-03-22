@@ -3,21 +3,25 @@ import { createStore } from 'redux';
 import { Provider } from 'react-redux'
 import { render } from 'react-dom';
 import App from './components/App';
-import reducer from './reducers';
-import { BrowserRouter as Router,
- Route} from 'react-router-dom';
-import './css/main.css';
 
-const store = createStore(
-    reducer,
-    window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()
-);
+const reducer = (state = {
+  count: 0,
+}, action) => {
+  switch(action.type){
+    case 'INCREMENT':
+    return {count: state.count + 1};
+    case 'DECREMENT':
+    return {count: state.count - 1};
+    default:
+    return state;
+  }
+};
+
+const store = createStore(reducer);
   
   render(
     <Provider store={store}>
-      <Router>
-        <Route path="/" component={App} />
-      </Router>
+    <App/>
     </Provider>,
     document.getElementById('root')
   )

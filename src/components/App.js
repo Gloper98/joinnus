@@ -1,14 +1,20 @@
 import React from 'react';
-import NavBar from './navBar';
-import Events from './events';
-import Tickets from './tickets';
-//import Events from '../containers/events.js' <Events />
+import { connect } from 'react-redux';
 
-const App = () => (
+const App = (props) => console.log(props) || (
   <div className="App">
-    <NavBar />
-    <Tickets />
+  <button onClick={() => props.dispatch({
+    type: 'DECREMENT',
+  })}>-</button>
+  <span>{props.count}</span>
+  <button onClick={() => props.dispatch({
+    type: 'INCREMENT',
+  })}>+</button>
   </div>
 );
 
-export default App;
+const mapStateToProps = ({count}) => ({
+  count,
+});
+
+export default connect(mapStateToProps)(App);
