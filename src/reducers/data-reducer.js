@@ -195,19 +195,6 @@ const SEATS = [
     cy: 454.4
   },
   {
-    id: 'E-28',
-    row: 'E',
-    column: 28,
-    code: '0598',
-    selection: false,
-    color: 'dodgerblue',
-    category: 'adults',
-    value: 50,
-    zone: 'Lower Right Mezzanne',
-    cx: 1490.2,
-    cy: 440.5
-  },
-  {
     id: 'E-29',
     row: 'E',
     column: 29,
