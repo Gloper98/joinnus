@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="stadium" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E2E2E2;stroke:#E2E2E2;stroke-miterlimit:10;}
+	.st1{fill:#E2E2E2;}
+	.st2{fill:#E2E2E2;stroke:#DADADA;stroke-miterlimit:10;}
+	.st3{fill:#E2E2E2;stroke:#CDCCCC;stroke-miterlimit:10;}
+	.st4{fill:#C5C5C5;}
+	.st5{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st6{fill:#CCCCCC;stroke:#000000;stroke-miterlimit:10;}
+	.st7{fill:#CCCCCC;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st8{fill:#C5C5C5;stroke:#CCCCCC;stroke-miterlimit:10;}
+	.st9{fill:#C5C5C5;stroke:#CDCCCC;stroke-miterlimit:10;}
+</style>
+<polygon class="st0" points="355.5,956.3 356.5,932.3 911.2,927.1 911.2,947.6 879.5,1004.6 746.2,1040.3 535.2,1041.3 
+	406.5,1004.6 "/>
+<polygon class="st0" points="212.7,833.4 115.7,713.2 135.8,628.8 332.7,756.2 422.7,766.1 427.7,942 "/>
+<polygon class="st0" points="1145.2,622 967,758.5 864.2,764.9 874.8,936.7 1111.9,801.6 1178.3,692.4 "/>
+<rect x="423.4" y="761.1" class="st1" width="453" height="198"/>
+<polygon class="st2" points="101.5,548.5 119.5,452.7 340.9,639.6 281,741.2 140.9,639.6 "/>
+<polygon class="st0" points="358.5,619.7 950.6,619.7 1004.6,704.1 943.3,764.1 351.3,765.1 294.4,704.1 "/>
+<polygon class="st1" points="1167.7,465.1 944.9,615.1 1009.3,713.8 1149.6,621.6 1192.9,539.9 "/>
+<polygon class="st0" points="219.6,280.8 292.4,377 185.8,521 104.4,455.8 136.9,324.5 "/>
+<polygon class="st0" points="345.9,406.3 343.9,638.3 187.9,511.9 292.2,368.8 "/>
+<rect x="342.4" y="400.2" class="st1" width="612" height="238.1"/>
+<polygon class="st3" points="1189.4,308.7 1103.3,267 985.4,364.9 1112.1,527.1 1214.9,458.9 "/>
+<rect x="350.2" y="9.8" class="st1" width="591" height="139.3"/>
+<polygon class="st0" points="1043.7,311.9 971.5,154.2 874.5,76.5 742.2,77.3 791.5,243.1 769.2,407.3 949,411.4 "/>
+<polygon class="st1" points="494.3,248.9 543.8,69.4 738.8,69.4 792.3,239.5 771.1,407.8 519.4,412.4 "/>
+<polygon class="st1" points="425.3,75.1 545.5,78.6 500.1,259.2 528,415.4 375.9,415.4 296.7,387.2 237.5,310.9 310.6,157.8 "/>
+<rect id="stage" x="370" y="18.2" transform="matrix(1 -3.260140e-03 3.260140e-03 1 -0.1359 2.1062)" class="st4" width="552" height="49"/>
+<line class="st5" x1="178.9" y1="294.4" x2="178.9" y2="294.4"/>
+<path class="st6" d="M178.9,294.4"/>
+<path class="st6" d="M383.4-11.3"/>
+<path class="st6" d="M1103.6,348.9"/>
+<path class="st6" d="M575.5,192.2"/>
+<path class="st7" d="M575.5,192.2"/>
+<g id="center_x5F_orchestra">
+	<circle id="A-33" class="st4" cx="582.5" cy="98.7" r="14"/>
+	<circle id="A-32" class="st4" cx="615.5" cy="96.6" r="14"/>
+	<circle id="A-31" class="st4" cx="646.5" cy="96.5" r="14"/>
+	<circle id="A-30" class="st4" cx="677.5" cy="96.4" r="14"/>
+	<circle id="A-29" class="st4" cx="707.5" cy="96.3" r="14"/>
+	
+		<ellipse id="B-33" transform="matrix(0.1537 -0.9881 0.9881 0.1537 349.3834 671.3652)" class="st4" cx="566.6" cy="131.7" rx="14" ry="14"/>
+	<circle id="B-31" class="st4" cx="629.6" cy="130.5" r="14"/>
+	<circle id="B-30" class="st4" cx="660.6" cy="131.4" r="14"/>
+	
+		<ellipse id="B-29" transform="matrix(0.1537 -0.9881 0.9881 0.1537 455.5956 794.5206)" class="st4" cx="691.6" cy="131.3" rx="14" ry="14"/>
+	
+		<ellipse id="B-28" transform="matrix(0.1537 -0.9881 0.9881 0.1537 481.0826 824.0814)" class="st4" cx="721.6" cy="131.2" rx="14" ry="14"/>
+	<circle id="C-24" class="st4" cx="558.7" cy="162.8" r="14"/>
+	<circle id="C-23" class="st4" cx="590.7" cy="162.7" r="14"/>
+	<circle id="C-22" class="st4" cx="624.7" cy="162.5" r="14"/>
+	<circle id="C-21" class="st4" cx="657.7" cy="162.4" r="14"/>
+	<circle id="C-20" class="st4" cx="691.7" cy="163.3" r="14"/>
+	<circle id="C-19" class="st4" cx="725.7" cy="163.3" r="14"/>
+	<circle id="B-32" class="st4" cx="597.6" cy="131.6" r="14"/>
+	<circle id="E-22" class="st4" cx="551" cy="231.8" r="14"/>
+	<circle id="E-21" class="st4" cx="588" cy="231.7" r="14"/>
+	<circle id="E-20" class="st4" cx="624" cy="231.5" r="14"/>
+	<circle id="E-19" class="st4" cx="663" cy="231.4" r="14"/>
+	<circle id="E-18" class="st4" cx="698" cy="231.4" r="14"/>
+	<circle id="E-17" class="st4" cx="735" cy="231.2" r="14"/>
+	<circle id="F-19" class="st4" cx="548.1" cy="267.9" r="14"/>
+	<circle id="F-18" class="st4" cx="585.1" cy="267.7" r="14"/>
+	<circle id="F-17" class="st4" cx="621.1" cy="267.6" r="14"/>
+	<circle id="F-16" class="st4" cx="660.1" cy="267.4" r="14"/>
+	<circle id="F-15" class="st4" cx="695.1" cy="267.3" r="14"/>
+	<circle id="F-14" class="st4" cx="732.1" cy="267.2" r="14"/>
+	<circle id="D-21" class="st4" cx="551.8" cy="195.8" r="14"/>
+	<circle id="D-20" class="st4" cx="588.8" cy="195.7" r="14"/>
+	<circle id="D-19" class="st4" cx="624.8" cy="195.5" r="14"/>
+	<circle id="D-18" class="st4" cx="663.8" cy="195.4" r="14"/>
+	<circle id="D-17" class="st4" cx="698.8" cy="195.4" r="14"/>
+	<circle id="D-16" class="st4" cx="735.8" cy="195.2" r="14"/>
+	<circle id="G-12" class="st4" cx="549.1" cy="303.8" r="14"/>
+	<circle id="G-11" class="st4" cx="586.1" cy="303.7" r="14"/>
+	<circle id="G-10" class="st4" cx="622.1" cy="303.6" r="14"/>
+	<circle id="G-9" class="st4" cx="661.1" cy="303.4" r="14"/>
+	<circle id="G-8" class="st4" cx="696.1" cy="303.4" r="14"/>
+	<circle id="G-7" class="st4" cx="733.1" cy="303.2" r="14"/>
+	<circle id="H-12" class="st4" cx="550.3" cy="338.8" r="14"/>
+	<circle id="H-11" class="st4" cx="587.3" cy="338.7" r="14"/>
+	<circle id="H-10" class="st4" cx="623.3" cy="338.6" r="14"/>
+	<circle id="H-9" class="st4" cx="662.3" cy="338.4" r="14"/>
+	<circle id="H-8" class="st4" cx="697.3" cy="338.4" r="14"/>
+	<circle id="H-7" class="st4" cx="734.3" cy="338.2" r="14"/>
+	<circle id="I-10" class="st4" cx="566.4" cy="371.7" r="14"/>
+	<circle id="I-8" class="st4" cx="629.4" cy="370.5" r="14"/>
+	<circle id="I-7" class="st4" cx="660.4" cy="371.4" r="14"/>
+	<circle id="I-6" class="st4" cx="691.4" cy="371.3" r="14"/>
+	<circle id="I-5" class="st4" cx="721.4" cy="371.2" r="14"/>
+	<circle id="I-9" class="st4" cx="597.4" cy="371.6" r="14"/>
+	<line class="st4" x1="558.5" y1="77.8" x2="725.4" y2="76.3"/>
+	<line class="st4" x1="529.5" y1="389.9" x2="756.5" y2="389.2"/>
+	<line class="st4" x1="558.5" y1="77.8" x2="511" y2="240.9"/>
+	<line class="st4" x1="725.4" y1="76.3" x2="772" y2="238.1"/>
+	<line class="st4" x1="511" y1="240.9" x2="529.5" y2="389.9"/>
+	<line class="st4" x1="772" y1="238.1" x2="756.5" y2="389.2"/>
+</g>
+<g id="left_x5F_orchestra">
+	<g id="seats_13_">
+		<path class="st4" d="M442.7,83.7"/>
+		<path class="st4" d="M448.8,82"/>
+		<path class="st4" d="M449.3,81.5"/>
+		<line class="st4" x1="270.1" y1="306.1" x2="338.6" y2="160.8"/>
+		<line class="st4" x1="338.6" y1="160.8" x2="449.3" y2="81.5"/>
+		<circle id="F-22" class="st4" cx="389.8" cy="257.7" r="14"/>
+		<circle id="F-20" class="st4" cx="463" cy="279.5" r="14"/>
+		<circle id="H-17" class="st4" cx="329" cy="316.9" r="14"/>
+		<circle id="G-13" class="st4" cx="453" cy="315.5" r="14"/>
+		<circle id="F-21" class="st4" cx="426.9" cy="270.6" r="14"/>
+		<circle id="H-18" class="st4" cx="299" cy="305" r="14"/>
+		<circle id="H-15" class="st4" cx="398.2" cy="337.6" r="14"/>
+		<circle id="F-24" class="st4" cx="328.8" cy="235.9" r="14"/>
+		<circle id="H-14" class="st4" cx="432.1" cy="345.5" r="14"/>
+		<circle id="G-17" class="st4" cx="312.9" cy="271" r="14"/>
+		<circle id="H-16" class="st4" cx="363.1" cy="323.8" r="14"/>
+		<circle id="F-23" class="st4" cx="358.9" cy="248.8" r="14"/>
+		<circle id="H-13" class="st4" cx="468.2" cy="351.5" r="14"/>
+		<circle id="G-16" class="st4" cx="344.9" cy="284.9" r="14"/>
+		<circle id="I-14" class="st4" cx="343.2" cy="351.9" r="14"/>
+		<circle id="G-15" class="st4" cx="381" cy="294.8" r="14"/>
+		<circle id="G-14" class="st4" cx="413" cy="304.7" r="14"/>
+		<circle id="I-13" class="st4" cx="377.2" cy="365.8" r="14"/>
+		<circle id="B-36" class="st4" cx="431.4" cy="122.6" r="14"/>
+		<circle id="A-34" class="st4" cx="506.3" cy="101.3" r="14"/>
+		<circle id="A-35" class="st4" cx="470.4" cy="99.5" r="14"/>
+		<circle id="B-34" class="st4" cx="502.4" cy="135.4" r="14"/>
+		<circle id="B-35" class="st4" cx="466.4" cy="133.5" r="14"/>
+		<circle id="C-28" class="st4" cx="397.5" cy="142.8" r="14"/>
+		<circle id="C-26" class="st4" cx="460.7" cy="169.5" r="14"/>
+		<circle id="C-27" class="st4" cx="427.6" cy="160.7" r="14"/>
+		<circle id="C-25" class="st4" cx="494.6" cy="174.4" r="14"/>
+		<circle id="D-23" class="st4" cx="445.8" cy="202.6" r="14"/>
+		<circle id="D-24" class="st4" cx="415.7" cy="195.7" r="14"/>
+		<circle id="D-22" class="st4" cx="478.7" cy="209.4" r="14"/>
+		<circle id="D-26" class="st4" cx="358.6" cy="165.9" r="14"/>
+		<circle id="D-25" class="st4" cx="386.7" cy="181.8" r="14"/>
+		<circle id="E-24" class="st4" cx="433.9" cy="236.6" r="14"/>
+		<circle id="E-25" class="st4" cx="403.9" cy="229.7" r="14"/>
+		<circle id="E-23" class="st4" cx="466.8" cy="243.5" r="14"/>
+		<circle id="E-26" class="st4" cx="374.8" cy="215.8" r="14"/>
+		<circle id="E-27" class="st4" cx="342.8" cy="199.9" r="14"/>
+		<circle id="I-12" class="st4" cx="406.2" cy="376.7" r="14"/>
+		<circle id="I-11" class="st4" cx="441.2" cy="378.6" r="14"/>
+		<line class="st4" x1="449.3" y1="81.5" x2="544.3" y2="83.2"/>
+		<line class="st4" x1="544.3" y1="83.2" x2="492.8" y2="250.4"/>
+		<line class="st4" x1="492.8" y1="250.4" x2="517.3" y2="393.3"/>
+		<line class="st4" x1="316.2" y1="358" x2="400.3" y2="394.6"/>
+		<line class="st4" x1="517.3" y1="393.3" x2="400.3" y2="394.6"/>
+	</g>
+	<line class="st4" x1="270.1" y1="306.1" x2="316.2" y2="358"/>
+</g>
+<g id="right_x5F_orchestra">
+	<g id="seats_12_">
+		<path class="st4" d="M842.8,79.8"/>
+		<path class="st4" d="M842.3,80.3"/>
+		<path class="st4" d="M842.8,82.8"/>
+		<path class="st4" d="M747.8,81.1"/>
+		<path class="st4" d="M795.3,238"/>
+		<path class="st4" d="M747.8,81.1"/>
+		<path class="st4" d="M950,159.5"/>
+		<path class="st4" d="M986.5,287.3"/>
+		<line class="st4" x1="842.8" y1="79.8" x2="950" y2="159.5"/>
+		<line class="st4" x1="1020.6" y1="300.2" x2="950" y2="159.5"/>
+		<circle id="A-28" class="st4" cx="800.1" cy="99.9" r="14"/>
+		<circle id="A-27" class="st4" cx="835.1" cy="99.9" r="14"/>
+		
+			<ellipse id="B-26" transform="matrix(0.1537 -0.9881 0.9881 0.1537 564.4495 926.8067)" class="st4" cx="823.3" cy="133.9" rx="14" ry="14"/>
+		<circle id="B-25" class="st4" cx="861.2" cy="126.8" r="14"/>
+		<circle id="B-27" class="st4" cx="786.2" cy="137" r="14"/>
+		<circle id="C-15" class="st4" cx="898.3" cy="147.7" r="14"/>
+		<circle id="C-17" class="st4" cx="831.3" cy="169.9" r="14"/>
+		<circle id="C-16" class="st4" cx="866.3" cy="159.8" r="14"/>
+		<circle id="C-18" class="st4" cx="797.3" cy="176.1" r="14"/>
+		<circle id="D-12" class="st4" cx="930.1" cy="171.4" r="14"/>
+		<circle id="D-14" class="st4" cx="865.5" cy="196.8" r="14"/>
+		<circle id="D-13" class="st4" cx="899.3" cy="186.2" r="14"/>
+		<circle id="D-15" class="st4" cx="831.4" cy="206.9" r="14"/>
+		<circle id="E-12" class="st4" cx="946.2" cy="204.4" r="14"/>
+		<circle id="E-14" class="st4" cx="881.5" cy="229.7" r="14"/>
+		<circle id="E-13" class="st4" cx="915.4" cy="219.1" r="14"/>
+		<circle id="E-15" class="st4" cx="847.6" cy="239.8" r="14"/>
+		<circle id="F-9" class="st4" cx="963.3" cy="235.3" r="14"/>
+		<circle id="F-11" class="st4" cx="898.6" cy="260.7" r="14"/>
+		<circle id="F-10" class="st4" cx="932.5" cy="250.1" r="14"/>
+		<circle id="F-12" class="st4" cx="864.7" cy="270.8" r="14"/>
+		<circle id="G-1" class="st4" cx="976.4" cy="267.3" r="14"/>
+		<circle id="G-3" class="st4" cx="911.7" cy="292.6" r="14"/>
+		<circle id="G-2" class="st4" cx="945.6" cy="282" r="14"/>
+		<circle id="G-4" class="st4" cx="877.8" cy="302.7" r="14"/>
+		<circle id="H-1" class="st4" cx="991.6" cy="299.2" r="14"/>
+		<circle id="H-3" class="st4" cx="926.8" cy="324.6" r="14"/>
+		<circle id="H-2" class="st4" cx="960.8" cy="314" r="14"/>
+		<circle id="H-4" class="st4" cx="892.9" cy="334.7" r="14"/>
+		<circle id="F-13" class="st4" cx="828.7" cy="274" r="14"/>
+		<circle id="G-5" class="st4" cx="842.8" cy="306.9" r="14"/>
+		<circle id="H-5" class="st4" cx="858.9" cy="338.9" r="14"/>
+		<circle id="I-2" class="st4" cx="872" cy="369.9" r="14"/>
+		<circle id="G-6" class="st4" cx="806.8" cy="308" r="14"/>
+		<circle id="H-6" class="st4" cx="823.9" cy="339" r="14"/>
+		<circle id="I-3" class="st4" cx="837" cy="370.9" r="14"/>
+		<circle id="I-4" class="st4" cx="801" cy="371" r="14"/>
+		<circle id="I-1" class="st4" cx="907" cy="364.7" r="14"/>
+		<circle id="E-16" class="st4" cx="814.6" cy="244" r="14"/>
+		<path class="st4" d="M771.9,392"/>
+		<path class="st4" d="M747.8,81.1"/>
+		<line class="st4" x1="842.8" y1="79.8" x2="747.8" y2="81.1"/>
+		<line class="st4" x1="747.8" y1="81.1" x2="795.3" y2="238"/>
+		<line class="st4" x1="795.3" y1="238" x2="771.9" y2="392"/>
+	</g>
+	<line class="st4" x1="771.9" y1="392" x2="931.9" y2="391.5"/>
+	<line class="st4" x1="1020.6" y1="300.2" x2="931.9" y2="391.5"/>
+</g>
+<g id="lower_x5F_left_x5F_mezzanne">
+	<path class="st8" d="M179.1,329.1"/>
+	<g id="seats_11_">
+		<path class="st8" d="M117.9,454.3c-0.3-91.7,35.4-141,103.9-161.8"/>
+		<line class="st8" x1="282.2" y1="371.3" x2="187.7" y2="507.6"/>
+		<line class="st8" x1="222" y1="292.5" x2="282.2" y2="371.3"/>
+		<circle id="A-52" class="st8" cx="251.3" cy="371.3" r="14"/>
+		<circle id="B-65" class="st8" cx="198.2" cy="375.6" r="14"/>
+		<circle id="B-64" class="st8" cx="226.3" cy="395.5" r="14"/>
+		<circle id="C-54" class="st8" cx="153.2" cy="380.8" r="14"/>
+		<circle id="C-53" class="st8" cx="180.8" cy="400.7" r="14"/>
+		<circle id="C-52" class="st8" cx="207.4" cy="420.6" r="14"/>
+		<circle id="A-53" class="st8" cx="224.5" cy="352" r="14"/>
+		<circle id="B-66" class="st8" cx="173.1" cy="350.6" r="14"/>
+		<circle id="D-51" class="st8" cx="167.2" cy="434.6" r="14"/>
+		<circle id="D-50" class="st8" cx="196" cy="450.6" r="14"/>
+		<circle id="D-52" class="st8" cx="138.8" cy="417.7" r="14"/>
+		<circle id="E-52" class="st8" cx="177.6" cy="475.7" r="14"/>
+		<circle id="E-53" class="st8" cx="146.5" cy="456.8" r="14"/>
+		<circle id="A-54" class="st8" cx="202.1" cy="328.5" r="14"/>
+	</g>
+	<line class="st8" x1="117.4" y1="453.8" x2="187.7" y2="507.6"/>
+</g>
+<g id="lateral_x5F_mezzanne_x5F_2">
+	<g id="seats_10_">
+		<line class="st4" x1="342.7" y1="409.9" x2="343.4" y2="618.9"/>
+		<line class="st4" x1="342.7" y1="409.9" x2="297.6" y2="379.1"/>
+		<circle id="B-63" class="st4" cx="286.2" cy="429.7" r="14"/>
+		<circle id="B-62" class="st4" cx="314.5" cy="446.6" r="14"/>
+		<circle id="C-51" class="st4" cx="267.2" cy="455.5" r="14"/>
+		<circle id="C-50" class="st4" cx="294.7" cy="472" r="14"/>
+		<circle id="D-49" class="st4" cx="248.6" cy="482.9" r="14"/>
+		<circle id="D-48" class="st4" cx="277.2" cy="501.2" r="14"/>
+		<circle id="E-51" class="st4" cx="232.2" cy="510.4" r="14"/>
+		<circle id="E-50" class="st4" cx="260.8" cy="528.7" r="14"/>
+		<circle id="D-47" class="st4" cx="303.5" cy="520.9" r="14"/>
+		<circle id="C-49" class="st4" cx="320.4" cy="492.5" r="14"/>
+		<circle id="E-49" class="st4" cx="285.7" cy="548.7" r="14"/>
+		<circle id="E-48" class="st4" cx="312.2" cy="569" r="14"/>
+		<circle id="A-51" class="st4" cx="302.7" cy="403.2" r="14"/>
+	</g>
+	<line class="st4" x1="297.6" y1="379.1" x2="203" y2="508.5"/>
+	<line class="st4" x1="343.4" y1="618.9" x2="203" y2="508.5"/>
+</g>
+<g id="lower_x5F_center_x5F_mezzanne">
+	<g id="seats_1_">
+		<path class="st4" d="M889.2,429.2"/>
+		<line class="st4" x1="360.8" y1="611.9" x2="937.8" y2="610"/>
+		<line class="st4" x1="937.8" y1="610" x2="937.1" y2="401"/>
+		<line class="st4" x1="937.1" y1="401" x2="843.1" y2="401.4"/>
+		<circle id="A-49" class="st4" cx="455.2" cy="426.6" r="14"/>
+		<circle id="A-48" class="st4" cx="488.2" cy="425.5" r="14"/>
+		<circle id="B-60" class="st4" cx="420.3" cy="459.7" r="14"/>
+		<circle id="B-59" class="st4" cx="453.3" cy="458.6" r="14"/>
+		<circle id="B-58" class="st4" cx="485.3" cy="457.5" r="14"/>
+		<circle id="C-48" class="st4" cx="381.4" cy="491.9" r="14"/>
+		<circle id="C-47" class="st4" cx="415.4" cy="491.8" r="14"/>
+		<circle id="C-46" class="st4" cx="452.4" cy="491.6" r="14"/>
+		<circle id="C-45" class="st4" cx="486.4" cy="491.5" r="14"/>
+		<circle id="D-46" class="st4" cx="382.5" cy="523.9" r="14"/>
+		<circle id="D-45" class="st4" cx="416.5" cy="523.8" r="14"/>
+		<circle id="D-44" class="st4" cx="453.5" cy="523.6" r="14"/>
+		<circle id="D-43" class="st4" cx="487.5" cy="523.5" r="14"/>
+		<circle id="E-47" class="st4" cx="381.7" cy="558.9" r="14"/>
+		<circle id="E-46" class="st4" cx="415.7" cy="558.8" r="14"/>
+		<circle id="E-45" class="st4" cx="452.7" cy="558.6" r="14"/>
+		<circle id="E-44" class="st4" cx="486.7" cy="558.5" r="14"/>
+		<circle id="F-38" class="st4" cx="382.8" cy="590.9" r="14"/>
+		<circle id="F-37" class="st4" cx="416.8" cy="590.8" r="14"/>
+		<circle id="F-36" class="st4" cx="453.8" cy="590.6" r="14"/>
+		<circle id="F-35" class="st4" cx="487.8" cy="590.5" r="14"/>
+		<circle id="A-41" class="st4" cx="836.2" cy="422.4" r="14"/>
+		<circle id="A-40" class="st4" cx="870.2" cy="423.3" r="14"/>
+		<circle id="B-51" class="st4" cx="808.3" cy="456.5" r="14"/>
+		<circle id="B-50" class="st4" cx="842.3" cy="456.4" r="14"/>
+		<circle id="B-49" class="st4" cx="875.3" cy="457.2" r="14"/>
+		<circle id="C-38" class="st4" cx="809.4" cy="490.5" r="14"/>
+		<circle id="C-37" class="st4" cx="843.4" cy="490.4" r="14"/>
+		<circle id="C-36" class="st4" cx="880.4" cy="490.2" r="14"/>
+		<circle id="C-35" class="st4" cx="914.4" cy="490.1" r="14"/>
+		<circle id="D-36" class="st4" cx="810.5" cy="522.5" r="14"/>
+		<circle id="D-35" class="st4" cx="844.5" cy="522.3" r="14"/>
+		<circle id="D-34" class="st4" cx="881.5" cy="522.2" r="14"/>
+		<circle id="D-33" class="st4" cx="915.5" cy="522.1" r="14"/>
+		<circle id="E-37" class="st4" cx="809.7" cy="557.5" r="14"/>
+		<circle id="E-36" class="st4" cx="843.7" cy="557.4" r="14"/>
+		<circle id="E-35" class="st4" cx="880.7" cy="557.2" r="14"/>
+		<circle id="E-34" class="st4" cx="914.7" cy="557.1" r="14"/>
+		<circle id="F-28" class="st4" cx="810.8" cy="589.5" r="14"/>
+		<circle id="F-27" class="st4" cx="844.8" cy="589.3" r="14"/>
+		<circle id="F-26" class="st4" cx="881.8" cy="589.2" r="14"/>
+		<circle id="F-25" class="st4" cx="915.8" cy="589.1" r="14"/>
+		<circle id="A-57" class="st4" cx="579.3" cy="423.2" r="14"/>
+		<circle id="A-56" class="st4" cx="615.2" cy="424.1" r="14"/>
+		<circle id="A-55" class="st4" cx="649.2" cy="426" r="14"/>
+		<circle id="B-57" class="st4" cx="560.3" cy="455.3" r="14"/>
+		<circle id="B-56" class="st4" cx="594.3" cy="455.2" r="14"/>
+		<circle id="B-55" class="st4" cx="631.3" cy="455.1" r="14"/>
+		<circle id="B-54" class="st4" cx="665.3" cy="454.9" r="14"/>
+		<circle id="C-44" class="st4" cx="561.4" cy="489.3" r="14"/>
+		<circle id="C-43" class="st4" cx="595.4" cy="489.2" r="14"/>
+		<circle id="C-42" class="st4" cx="632.4" cy="489" r="14"/>
+		<circle id="C-41" class="st4" cx="666.4" cy="488.9" r="14"/>
+		<circle id="D-42" class="st4" cx="562.5" cy="521.3" r="14"/>
+		<circle id="D-41" class="st4" cx="596.5" cy="521.2" r="14"/>
+		<circle id="D-40" class="st4" cx="633.5" cy="521" r="14"/>
+		<circle id="D-39" class="st4" cx="667.5" cy="520.9" r="14"/>
+		<circle id="E-43" class="st4" cx="561.6" cy="556.3" r="14"/>
+		<circle id="E-42" class="st4" cx="595.6" cy="556.2" r="14"/>
+		<circle id="E-41" class="st4" cx="632.6" cy="556" r="14"/>
+		<circle id="E-40" class="st4" cx="666.6" cy="555.9" r="14"/>
+		<circle id="F-34" class="st4" cx="562.8" cy="588.3" r="14"/>
+		<circle id="F-33" class="st4" cx="596.8" cy="588.2" r="14"/>
+		<circle id="F-32" class="st4" cx="633.8" cy="588" r="14"/>
+		<circle id="F-31" class="st4" cx="667.8" cy="587.9" r="14"/>
+		<circle id="A-44" class="st4" cx="684.2" cy="425.9" r="14"/>
+		<circle id="A-43" class="st4" cx="720.2" cy="425.8" r="14"/>
+		<circle id="B-53" class="st4" cx="700.3" cy="455.8" r="14"/>
+		<circle id="B-52" class="st4" cx="734.3" cy="455.7" r="14"/>
+		<circle id="C-40" class="st4" cx="701.4" cy="489.8" r="14"/>
+		<circle id="C-39" class="st4" cx="735.4" cy="489.7" r="14"/>
+		<circle id="D-38" class="st4" cx="702.5" cy="521.8" r="14"/>
+		<circle id="D-37" class="st4" cx="736.5" cy="521.7" r="14"/>
+		<circle id="E-39" class="st4" cx="701.7" cy="556.8" r="14"/>
+		<circle id="E-38" class="st4" cx="735.7" cy="556.7" r="14"/>
+		<circle id="F-30" class="st4" cx="702.8" cy="588.8" r="14"/>
+		<circle id="F-29" class="st4" cx="736.8" cy="588.7" r="14"/>
+		<circle id="A-42" class="st4" cx="805.2" cy="422.5" r="14"/>
+		<circle id="B-48" class="st4" cx="907.3" cy="457.1" r="14"/>
+		<circle id="A-50" class="st4" cx="422.2" cy="426.7" r="14"/>
+		<circle id="B-61" class="st4" cx="389.3" cy="461.8" r="14"/>
+		<path class="st4" d="M519.1,402.4"/>
+	</g>
+	<line class="st4" x1="360.8" y1="611.9" x2="360.1" y2="402.9"/>
+	<line class="st4" x1="843.1" y1="401.4" x2="360.1" y2="402.9"/>
+</g>
+<g id="lower_x5F_right_x5F_mezzanne">
+	<g id="seats_8_">
+		<path class="st9" d="M1104,284c56-7.2,99.3,74,99.5,170.6"/>
+		<line class="st9" x1="1007.4" y1="367.4" x2="1104" y2="284"/>
+		<path class="st9" d="M1102.7,322.7"/>
+		<circle id="A-37" class="st9" cx="1056.5" cy="349.5" r="14"/>
+		<circle id="A-36" class="st9" cx="1084" cy="329.6" r="14"/>
+		
+			<ellipse id="B-40" transform="matrix(0.1537 -0.9881 0.9881 0.1537 504.0474 1375.4218)" class="st9" cx="1054.9" cy="393.5" rx="14" ry="14"/>
+		<circle id="B-39" class="st9" cx="1081.9" cy="372.8" r="14"/>
+		<circle id="B-38" class="st9" cx="1108.7" cy="353.4" r="14"/>
+		<circle id="C-32" class="st9" cx="1076.5" cy="419.8" r="14"/>
+		
+			<ellipse id="C-31" transform="matrix(0.1537 -0.9881 0.9881 0.1537 539.5151 1428.1908)" class="st9" cx="1103.5" cy="399.1" rx="14" ry="14"/>
+		<circle id="C-30" class="st9" cx="1132.8" cy="376.6" r="14"/>
+		<circle id="C-29" class="st9" cx="1159.7" cy="355.8" r="14"/>
+		<circle id="A-38" class="st9" cx="1031.9" cy="368.4" r="14"/>
+		<circle id="B-37" class="st9" cx="1134.1" cy="333.9" r="14"/>
+		<circle id="D-29" class="st9" cx="1118.9" cy="429.8" r="14"/>
+		<circle id="D-28" class="st9" cx="1146.7" cy="410.3" r="14"/>
+		<circle id="E-30" class="st9" cx="1116.8" cy="473.9" r="14"/>
+		<circle id="E-29" class="st9" cx="1144" cy="453.5" r="14"/>
+		<circle id="E-28" class="st9" cx="1171.1" cy="434.5" r="14"/>
+		<circle id="D-30" class="st9" cx="1094" cy="448.4" r="14"/>
+		<circle id="D-27" class="st9" cx="1171.4" cy="389.9" r="14"/>
+	</g>
+	<line class="st9" x1="1001.8" y1="370.6" x2="1111.2" y2="514.3"/>
+	<line class="st9" x1="1198.1" y1="458" x2="1111.2" y2="514.3"/>
+</g>
+<g id="right_x5F_mezzanne">
+	<g id="seats_7_">
+		<line class="st4" x1="949.1" y1="622.1" x2="1006.4" y2="710.9"/>
+		<circle id="A-61" class="st4" cx="977" cy="625.8" r="14"/>
+		<circle id="A-60" class="st4" cx="1005.3" cy="607.1" r="14"/>
+		<circle id="A-59" class="st4" cx="1036.3" cy="586.8" r="14"/>
+		<circle id="A-58" class="st4" cx="1064.7" cy="568.1" r="14"/>
+		<circle id="B-72" class="st4" cx="995.3" cy="652" r="14"/>
+		<circle id="B-71" class="st4" cx="1023.8" cy="633.3" r="14"/>
+		<circle id="B-70" class="st4" cx="1054.7" cy="613" r="14"/>
+		<circle id="B-69" class="st4" cx="1083.2" cy="594.3" r="14"/>
+		<circle id="C-58" class="st4" cx="1016.5" cy="682.3" r="14"/>
+		<circle id="C-57" class="st4" cx="1044.9" cy="663.6" r="14"/>
+		<circle id="C-56" class="st4" cx="1075.9" cy="643.3" r="14"/>
+		<circle id="C-55" class="st4" cx="1104.3" cy="624.6" r="14"/>
+		<circle id="A-56_1_" class="st4" cx="1121.8" cy="525.4" r="14"/>
+		<circle id="A-55_1_" class="st4" cx="1149.7" cy="505.9" r="14"/>
+		<circle id="A-57_1_" class="st4" cx="1096.9" cy="544" r="14"/>
+		<circle id="B-67" class="st4" cx="1142.9" cy="553.4" r="14"/>
+		<circle id="B-68" class="st4" cx="1118" cy="571.8" r="14"/>
+	</g>
+	<line class="st4" x1="949.1" y1="622.1" x2="1161.7" y2="477.4"/>
+	<line class="st4" x1="1006.4" y1="710.9" x2="1136.2" y2="623.4"/>
+	<line class="st4" x1="1161.7" y1="477.4" x2="1182.8" y2="539.2"/>
+	<line class="st4" x1="1136.2" y1="623.4" x2="1182.8" y2="539.2"/>
+</g>
+<g id="center_x5F_mezzanne">
+	<g id="seats_6_">
+		<line class="st4" x1="359" y1="755.7" x2="936" y2="753.7"/>
+		<circle id="A-75" class="st4" cx="375.7" cy="661.5" r="14"/>
+		<circle id="A-74" class="st4" cx="412.7" cy="661.4" r="14"/>
+		<circle id="A-73" class="st4" cx="446.7" cy="661.3" r="14"/>
+		<circle id="B-86" class="st4" cx="376.8" cy="693.5" r="14"/>
+		<circle id="B-85" class="st4" cx="413.8" cy="693.4" r="14"/>
+		<circle id="B-84" class="st4" cx="447.8" cy="693.4" r="14"/>
+		<circle id="C-72" class="st4" cx="358.9" cy="725.7" r="14"/>
+		<circle id="C-71" class="st4" cx="395.9" cy="725.5" r="14"/>
+		<circle id="C-70" class="st4" cx="429.9" cy="725.4" r="14"/>
+		<circle id="A-64" class="st4" cx="851.6" cy="653" r="14"/>
+		<circle id="A-63" class="st4" cx="888.6" cy="652.9" r="14"/>
+		<circle id="A-62" class="st4" cx="922.6" cy="652.7" r="14"/>
+		<circle id="B-75" class="st4" cx="852.8" cy="685" r="14"/>
+		<circle id="B-74" class="st4" cx="889.8" cy="684.9" r="14"/>
+		<circle id="B-73" class="st4" cx="923.8" cy="684.7" r="14"/>
+		<circle id="C-61" class="st4" cx="873.9" cy="717" r="14"/>
+		<circle id="C-60" class="st4" cx="910.9" cy="716.8" r="14"/>
+		<circle id="C-59" class="st4" cx="944.9" cy="716.7" r="14"/>
+		<circle id="A-72" class="st4" cx="502.7" cy="656.1" r="14"/>
+		<circle id="A-71" class="st4" cx="536.7" cy="656" r="14"/>
+		<circle id="A-70" class="st4" cx="573.7" cy="655.9" r="14"/>
+		<circle id="A-69" class="st4" cx="607.7" cy="655.8" r="14"/>
+		<circle id="B-83" class="st4" cx="503.8" cy="688.1" r="14"/>
+		<circle id="B-82" class="st4" cx="537.8" cy="688.1" r="14"/>
+		<circle id="B-81" class="st4" cx="574.8" cy="687.9" r="14"/>
+		<circle id="B-80" class="st4" cx="608.8" cy="687.8" r="14"/>
+		<circle id="A-68" class="st4" cx="685.7" cy="655.5" r="14"/>
+		<circle id="A-67" class="st4" cx="719.7" cy="655.5" r="14"/>
+		<circle id="A-66" class="st4" cx="756.7" cy="655.3" r="14"/>
+		<circle id="A-65" class="st4" cx="790.7" cy="655.2" r="14"/>
+		<circle id="B-79" class="st4" cx="686.8" cy="687.5" r="14"/>
+		<circle id="B-78" class="st4" cx="720.8" cy="687.5" r="14"/>
+		<circle id="B-77" class="st4" cx="757.8" cy="687.3" r="14"/>
+		<circle id="B-76" class="st4" cx="791.8" cy="687.2" r="14"/>
+		<circle id="C-69" class="st4" cx="504.9" cy="725.1" r="14"/>
+		<circle id="C-68" class="st4" cx="538.9" cy="725.1" r="14"/>
+		<circle id="C-67" class="st4" cx="575.9" cy="724.9" r="14"/>
+		<circle id="C-66" class="st4" cx="609.9" cy="724.8" r="14"/>
+		<circle id="C-65" class="st4" cx="687.9" cy="724.6" r="14"/>
+		<circle id="C-64" class="st4" cx="721.9" cy="724.5" r="14"/>
+		<circle id="C-63" class="st4" cx="758.9" cy="724.3" r="14"/>
+		<circle id="C-62" class="st4" cx="792.9" cy="724.2" r="14"/>
+	</g>
+	<line class="st4" x1="936" y1="753.7" x2="994.8" y2="705.6"/>
+	<line class="st4" x1="359" y1="755.7" x2="307.8" y2="702.8"/>
+	<line class="st4" x1="994.8" y1="705.6" x2="941.6" y2="624.7"/>
+	<line class="st4" x1="307.8" y1="702.8" x2="368.6" y2="626.6"/>
+	<line class="st4" x1="941.6" y1="624.7" x2="368.6" y2="626.6"/>
+</g>
+<g id="left_x5F_mezzanne">
+	<g id="seats_5_">
+		<line class="st4" x1="335.5" y1="639.6" x2="287.6" y2="732.2"/>
+		<circle id="A-79" class="st4" cx="226.8" cy="574" r="14"/>
+		<circle id="A-78" class="st4" cx="253.3" cy="595.2" r="14"/>
+		<circle id="A-77" class="st4" cx="282.2" cy="618.3" r="14"/>
+		<circle id="A-76" class="st4" cx="308.9" cy="639.5" r="14"/>
+		<circle id="B-90" class="st4" cx="207.7" cy="599.7" r="14"/>
+		<circle id="B-89" class="st4" cx="234.2" cy="620.9" r="14"/>
+		<circle id="B-88" class="st4" cx="263.1" cy="644" r="14"/>
+		<circle id="B-87" class="st4" cx="289.7" cy="665.2" r="14"/>
+		<circle id="C-76" class="st4" cx="185.4" cy="629.2" r="14"/>
+		<circle id="C-75" class="st4" cx="211.9" cy="650.4" r="14"/>
+		<circle id="C-74" class="st4" cx="240.8" cy="673.5" r="14"/>
+		<circle id="C-73" class="st4" cx="267.4" cy="694.7" r="14"/>
+		<circle id="A-82" class="st4" cx="146.4" cy="510.5" r="14"/>
+		<circle id="A-81" class="st4" cx="175.3" cy="533.5" r="14"/>
+		<circle id="A-80" class="st4" cx="201.9" cy="554.7" r="14"/>
+		<circle id="B-92" class="st4" cx="156.6" cy="558.9" r="14"/>
+		<circle id="B-91" class="st4" cx="183.2" cy="580.1" r="14"/>
+	</g>
+	<line class="st4" x1="335.5" y1="639.6" x2="122.6" y2="469"/>
+	<line class="st4" x1="287.6" y1="732.2" x2="150.5" y2="634.9"/>
+	<line class="st4" x1="122.6" y1="469" x2="110.1" y2="550.6"/>
+	<line class="st4" x1="150.5" y1="634.9" x2="110.1" y2="550.6"/>
+</g>
+<g id="mezzanne_x5F_club_x5F_level">
+	<g id="seats_4_">
+		<line class="st4" x1="447.4" y1="926.1" x2="838.4" y2="922.8"/>
+		<line class="st4" x1="838.4" y1="922.8" x2="845.9" y2="771.8"/>
+		<circle id="A-18" class="st4" cx="467.9" cy="794.1" r="14"/>
+		<circle id="A-17" class="st4" cx="501.9" cy="793.9" r="14"/>
+		<circle id="A-16" class="st4" cx="538.9" cy="793.8" r="14"/>
+		<circle id="A-15" class="st4" cx="572.9" cy="793.7" r="14"/>
+		<circle id="B-17" class="st4" cx="469" cy="826.1" r="14"/>
+		<circle id="B-16" class="st4" cx="503" cy="825.9" r="14"/>
+		<circle id="B-15" class="st4" cx="540" cy="825.8" r="14"/>
+		<circle id="B-14" class="st4" cx="574" cy="825.7" r="14"/>
+		<circle id="A-14" class="st4" cx="607.9" cy="794.5" r="14"/>
+		<circle id="B-13" class="st4" cx="609" cy="826.5" r="14"/>
+		<circle id="A-13" class="st4" cx="673.9" cy="792.3" r="14"/>
+		<circle id="A-12" class="st4" cx="707.9" cy="792.3" r="14"/>
+		<circle id="A-11" class="st4" cx="744.9" cy="792.1" r="14"/>
+		<circle id="A-10" class="st4" cx="778.9" cy="792" r="14"/>
+		<circle id="B-12" class="st4" cx="675" cy="824.3" r="14"/>
+		<circle id="B-11" class="st4" cx="709" cy="824.3" r="14"/>
+		<circle id="B-10" class="st4" cx="746" cy="824.1" r="14"/>
+		<circle id="B-9" class="st4" cx="780" cy="824" r="14"/>
+		<circle id="A-9" class="st4" cx="813.9" cy="792.9" r="14"/>
+		<circle id="B-8" class="st4" cx="815" cy="824.9" r="14"/>
+		<circle id="C-12" class="st4" cx="466.1" cy="858" r="14"/>
+		<circle id="C-11" class="st4" cx="500.1" cy="858" r="14"/>
+		<circle id="C-10" class="st4" cx="537.1" cy="857.8" r="14"/>
+		<circle id="C-9" class="st4" cx="571.1" cy="857.7" r="14"/>
+		<circle id="C-8" class="st4" cx="606.1" cy="858.6" r="14"/>
+		<circle id="C-7" class="st4" cx="680.1" cy="856.4" r="14"/>
+		<circle id="C-6" class="st4" cx="714.1" cy="856.2" r="14"/>
+		<circle id="C-5" class="st4" cx="751.1" cy="856.1" r="14"/>
+		<circle id="C-4" class="st4" cx="785.1" cy="856" r="14"/>
+		<circle id="C-3" class="st4" cx="820.1" cy="856.8" r="14"/>
+		<circle id="D-11" class="st4" cx="470.3" cy="904.1" r="14"/>
+		<circle id="D-10" class="st4" cx="504.3" cy="903.9" r="14"/>
+		
+			<ellipse id="D-9" transform="matrix(0.1537 -0.9881 0.9881 0.1537 -434.9084 1299.7974)" class="st4" cx="541.3" cy="903.8" rx="14" ry="14"/>
+		
+			<ellipse id="D-8" transform="matrix(0.1537 -0.9881 0.9881 0.1537 -406.0099 1333.2885)" class="st4" cx="575.3" cy="903.7" rx="14" ry="14"/>
+		<circle id="D-7" class="st4" cx="610.3" cy="904.5" r="14"/>
+		<circle id="D-6" class="st4" cx="647.3" cy="903.4" r="14"/>
+		
+			<ellipse id="D-5" transform="matrix(0.1537 -0.9881 0.9881 0.1537 -316.0019 1437.7759)" class="st4" cx="681.3" cy="903.4" rx="14" ry="14"/>
+		
+			<ellipse id="D-4" transform="matrix(0.1537 -0.9881 0.9881 0.1537 -284.5448 1474.2145)" class="st4" cx="718.3" cy="903.2" rx="14" ry="14"/>
+		<circle id="D-3" class="st4" cx="752.3" cy="903.1" r="14"/>
+		<circle id="D-2" class="st4" cx="787.3" cy="904" r="14"/>
+		<circle id="D-1" class="st4" cx="820.3" cy="903.8" r="14"/>
+	</g>
+	<line class="st4" x1="447.4" y1="926.1" x2="431.8" y2="766.1"/>
+	<line class="st4" x1="845.9" y1="771.8" x2="431.8" y2="766.1"/>
+</g>
+<g id="left_x5F_balcony">
+	<g id="seats_3_">
+		<line class="st4" x1="221.3" y1="822.8" x2="418.7" y2="925.2"/>
+		<line class="st4" x1="411.2" y1="772.2" x2="418.7" y2="925.2"/>
+		<circle id="A-26" class="st4" cx="178.8" cy="709.7" r="14"/>
+		<circle id="A-25" class="st4" cx="208.3" cy="726.6" r="14"/>
+		<circle id="A-24" class="st4" cx="240.5" cy="744.8" r="14"/>
+		<circle id="A-23" class="st4" cx="270" cy="761.6" r="14"/>
+		<circle id="A-22" class="st4" cx="299.9" cy="779.8" r="14"/>
+		<circle id="B-24" class="st4" cx="193.7" cy="753.6" r="14"/>
+		<circle id="B-23" class="st4" cx="222.9" cy="771.3" r="14"/>
+		<circle id="B-22" class="st4" cx="254.6" cy="790.3" r="14"/>
+		<circle id="B-21" class="st4" cx="283.7" cy="807.9" r="14"/>
+		<circle id="A-21" class="st4" cx="328.2" cy="794.5" r="14"/>
+		<circle id="A-20" class="st4" cx="362.2" cy="794.3" r="14"/>
+		<circle id="B-20" class="st4" cx="329.3" cy="826.5" r="14"/>
+		<circle id="B-19" class="st4" cx="363.3" cy="826.3" r="14"/>
+		<circle id="A-19" class="st4" cx="397.2" cy="795.2" r="14"/>
+		<circle id="B-18" class="st4" cx="398.3" cy="827.2" r="14"/>
+		<circle id="C-14" class="st4" cx="360.4" cy="858.4" r="14"/>
+		<circle id="C-13" class="st4" cx="395.4" cy="859.2" r="14"/>
+	</g>
+	<path class="st4" d="M143.8,637.1"/>
+	<path class="st4" d="M411.2,772.2"/>
+	<line class="st4" x1="221.3" y1="822.8" x2="130.9" y2="705.1"/>
+	<line class="st4" x1="143.8" y1="637.1" x2="130.9" y2="705.1"/>
+	<line class="st4" x1="411.2" y1="772.2" x2="329.1" y2="763.5"/>
+	<line class="st4" x1="143.8" y1="637.1" x2="329.1" y2="763.5"/>
+</g>
+<g id="right_x5F_balcony">
+	<g id="seats_2_">
+		<path class="st4" d="M860.8,888.6"/>
+		<path class="st4" d="M1087.6,805.8"/>
+		<line class="st4" x1="1087.6" y1="805.8" x2="860.9" y2="923.6"/>
+		<circle id="A-8" class="st4" cx="889.5" cy="795.5" r="14"/>
+		<circle id="A-7" class="st4" cx="923.5" cy="795.4" r="14"/>
+		<circle id="B-7" class="st4" cx="890.6" cy="827.5" r="14"/>
+		<circle id="B-6" class="st4" cx="924.6" cy="827.4" r="14"/>
+		<circle id="A-6" class="st4" cx="958.5" cy="796.3" r="14"/>
+		<circle id="B-5" class="st4" cx="959.6" cy="828.2" r="14"/>
+		<circle id="C-1" class="st4" cx="921.7" cy="859.4" r="14"/>
+		<circle id="C-2" class="st4" cx="888.7" cy="860.5" r="14"/>
+		<circle id="A-5" class="st4" cx="994.1" cy="776.3" r="14"/>
+		<circle id="A-4" class="st4" cx="1023.8" cy="759.6" r="14"/>
+		<circle id="A-3" class="st4" cx="1056" cy="741.5" r="14"/>
+		<circle id="A-2" class="st4" cx="1085.6" cy="724.8" r="14"/>
+		<circle id="A-1" class="st4" cx="1116.6" cy="708.6" r="14"/>
+		<circle id="B-4" class="st4" cx="1004.3" cy="807.8" r="14"/>
+		<circle id="B-3" class="st4" cx="1033.9" cy="791.1" r="14"/>
+		<circle id="B-2" class="st4" cx="1066.1" cy="772.8" r="14"/>
+		<circle id="B-1" class="st4" cx="1095.7" cy="756.1" r="14"/>
+	</g>
+	<line class="st4" x1="860.9" y1="923.6" x2="860.4" y2="770.6"/>
+	<line class="st4" x1="1087.6" y1="805.8" x2="1159.2" y2="707.6"/>
+	<line class="st4" x1="860.4" y1="770.6" x2="958.4" y2="770.3"/>
+	<line class="st4" x1="1159.2" y1="707.6" x2="1140" y2="648.7"/>
+	<line class="st4" x1="958.4" y1="770.3" x2="1140" y2="648.7"/>
+</g>
+<g id="center_x5F_balcony">
+	<g id="seats">
+		<path class="st4" d="M910.1,945.6"/>
+		<path class="st4" d="M425.1,949.1"/>
+		<circle id="E11" class="st4" cx="449.1" cy="969.1" r="14"/>
+		<circle id="E-10" class="st4" cx="483.1" cy="968.9" r="14"/>
+		<circle id="E-9" class="st4" cx="520.1" cy="968.8" r="14"/>
+		<circle id="E-8" class="st4" cx="554.1" cy="968.8" r="14"/>
+		<circle id="E-7" class="st4" cx="589.1" cy="969.6" r="14"/>
+		<circle id="E-6" class="st4" cx="626.1" cy="968.5" r="14"/>
+		<circle id="E-5" class="st4" cx="660.1" cy="968.4" r="14"/>
+		<circle id="E-4" class="st4" cx="697.1" cy="968.2" r="14"/>
+		<circle id="E-3" class="st4" cx="731.1" cy="968.2" r="14"/>
+		<circle id="E-2" class="st4" cx="766.1" cy="969.1" r="14"/>
+		<circle id="E-1" class="st4" cx="799.1" cy="968.9" r="14"/>
+		<circle id="F-8" class="st4" cx="555.3" cy="1001.8" r="14"/>
+		<circle id="F-7" class="st4" cx="590.3" cy="1002.6" r="14"/>
+		<circle id="F-6" class="st4" cx="627.3" cy="1001.5" r="14"/>
+		<circle id="F-5" class="st4" cx="661.3" cy="1001.4" r="14"/>
+		<circle id="F-4" class="st4" cx="698.3" cy="1001.2" r="14"/>
+	</g>
+	<line class="st4" x1="360.1" y1="938.3" x2="360.1" y2="938.3"/>
+	<line class="st4" x1="360.1" y1="938.3" x2="905" y2="936.5"/>
+	<line class="st4" x1="360.1" y1="938.3" x2="410.3" y2="998.2"/>
+	<line class="st4" x1="905" y1="936.5" x2="870.3" y2="1001.7"/>
+	<line class="st4" x1="410.3" y1="998.2" x2="541.3" y2="1029.8"/>
+	<line class="st4" x1="870.3" y1="1001.7" x2="729.3" y2="1028.1"/>
+	<line class="st4" x1="541.3" y1="1029.8" x2="729.3" y2="1028.1"/>
+</g>
+<polygon class="st1" points="972.8,618.7 1123.3,509.8 991.4,338.3 935.3,394.2 951.3,591.3 "/>
+<g id="lateral_x5F_mezzanne_x5F_1">
+	<g id="seats_9_">
+		<line class="st4" x1="958.4" y1="393.3" x2="987.3" y2="362.2"/>
+		<line class="st4" x1="987.3" y1="362.2" x2="1095.8" y2="505.8"/>
+		<circle id="C-34" class="st4" cx="991.7" cy="475.2" r="14"/>
+		<circle id="B-47" class="st4" cx="988.7" cy="439.2" r="14"/>
+		<circle id="D-32" class="st4" cx="995.8" cy="507.2" r="14"/>
+		<circle id="D-31" class="st4" cx="1026.8" cy="486" r="14"/>
+		<circle id="E-33" class="st4" cx="997.1" cy="540.1" r="14"/>
+		<circle id="E-32" class="st4" cx="1025" cy="520.8" r="14"/>
+		<circle id="E-31" class="st4" cx="1055.4" cy="499.7" r="14"/>
+		<circle id="C-33" class="st4" cx="1018.7" cy="457.1" r="14"/>
+		<circle id="A-39" class="st4" cx="986.6" cy="408.2" r="14"/>
+	</g>
+	<line class="st4" x1="958.4" y1="393.3" x2="970" y2="599.2"/>
+	<line class="st4" x1="1095.8" y1="505.8" x2="970" y2="599.2"/>
+</g>
+</svg>

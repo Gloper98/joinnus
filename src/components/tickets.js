@@ -37,7 +37,11 @@ const Tickets = () => (
      </div>
     </div>
    </div>
+
+  
+
   </div>
+
 );
 
 export default Tickets;

@@ -8,6 +8,7 @@ const NavBar = () => (
       <ul className="right hide-on-med-and-down">
         <li id="theater"><a >Theater</a></li>
         <li id="concerts"><a >Concerts</a></li>
+        <li id="search"><input placeholder="Search"/></li>
       </ul>
       <ul className="side-nav" id="mobile-demo">
         <li id="theater"><a>Theater</a></li>

@@ -4,6 +4,8 @@
   "version": "0.1.0",
   "private": false,
   "dependencies": {
+    "anychart-react": "^1.4.1",
+    "jquery": "^3.3.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-redux": "^5.0.7",

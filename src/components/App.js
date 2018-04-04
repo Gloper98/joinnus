@@ -9,6 +9,7 @@ const App = ({color, selected, seats}) => (
   <div className="App">
     <NavBar/>
     <Tickets/>
+    <div id="container"></div>
     <BuyTickets color={color} selected={selected} seats={seats}/>
   </div>
 );

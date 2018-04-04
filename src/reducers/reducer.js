@@ -7,10 +7,10 @@ const Reducer = (state = INIT_STATE, action) => {
       let newA = [];
       state.seats.map((seat)=>{
         if(seat.id === action.id){
-          if(seat.selection){
-            newA.push({...seat, selection: false, color: 'grey'});
-          } else {
-            newA.push({...seat, selection: true, color: 'red'});
+          if(!seat.selection && seat.color === 'lime'){
+            newA.push({...seat,  color: 'dodgerblue'});
+          } else if(!seat.selection && seat.color === 'dodgerblue'){
+            newA.push({...seat,  color: 'lime'});
           }
         } else {
         newA.push({...seat});
@@ -18,7 +18,15 @@ const Reducer = (state = INIT_STATE, action) => {
       });
       return {...state, seats: newA};
     default:
-      return state;
+    let showSeats = [];
+     state.seats.map((seat)=> {
+       if(seat.selection){
+         showSeats.push({...seat, color: 'gainsboro'});
+       } else {
+         showSeats.push({...seat, color: 'dodgerblue'});
+       }
+     })
+     return {...state, seats: showSeats};  
   }
 };
 
