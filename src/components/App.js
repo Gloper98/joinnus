@@ -5,11 +5,11 @@ import NavBar from './navBar';
 import BuyTickets from './buyTickets';
 import '../css/main.css';
 
-const App = ({color, selected, seats, showSeats, total, number, showSeatsState}) => (
+const App = ({color, selected, seats, showSeats, total, number, showSeatsState, hideSeats}) => (
   <div className="App">
     <NavBar/>
     <Tickets/>
-    <BuyTickets selected={selected} seats={seats} showSeats={showSeats} showSeatsState={showSeatsState} total={total} number={number}/>
+    <BuyTickets hideSeats={hideSeats} selected={selected} seats={seats} showSeats={showSeats} showSeatsState={showSeatsState} total={total} number={number}/>
   </div>
 );
 
@@ -25,11 +25,16 @@ const mapDispatchToProps = (dispatch) => ({
   selected(id){
     dispatch({ type: 'SELECTED', 
                id
-    })
+    })      
   },
   showSeats(){
     dispatch({ type: 'SHOW_SEATS',
                
+    })
+  },
+  hideSeats(){
+    dispatch({ type: 'HIDE_SEATS',
+
     })
   }
 });
