@@ -1,13 +1,15 @@
 import INIT_STATE from './data-reducer';
-import App from '../components/App';
 
 const Reducer = (state = INIT_STATE, action) => {
   switch(action.type){
     case 'SHOW_SEATS':
       let newSeatsState= true;
       console.log(state.showSeats);
-      return {...state, showSeatsState:newSeatsState}
-    case 'SELECTED':
+      return {...state, showSeatsState:newSeatsState};
+    case 'HIDE_SEATS':
+      let newSeatsStateHide= false;
+      return {...state, showSeatsState: newSeatsStateHide};
+    case 'SELECTED':  
       let newA = [];
       let newTotalArr = [];
       let newNumber= 0;
