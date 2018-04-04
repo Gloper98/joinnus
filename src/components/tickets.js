@@ -7,7 +7,7 @@ const Tickets = () => (
         <h2 className="header">LP Tour: Laura Pergolizzi</h2>
       <div className="card horizontal">
       <div className="card-image">
-        <img src='https://images-na.ssl-images-amazon.com/images/I/C1PasNDgbZS._CR0,0,3840,2880_._SL1000_.png'/>
+        <img src='https://images-na.ssl-images-amazon.com/images/I/C1PasNDgbZS._CR0,0,3840,2880_._SL1000_.png' alt="image1"/>
       </div>
       <div className="card-stacked">
         <div className="card-content">
