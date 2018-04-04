@@ -142,6 +142,10 @@ circle:hover {
   opacity: 0.4;
   cursor: pointer;
 }
+#leftMezzanne:hover{
+  opacity: 0.4;
+  cursor: pointer;
+}
 .barCode {
   width: 10em;
   height: auto;

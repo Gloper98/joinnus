@@ -22,6 +22,8 @@ const BuyTickets = ({seats, total, selected, showSeats, number, showSeatsState, 
           hideSeats();
           document.getElementById("lowerRightMezzanne").classList.add('purple');
           document.getElementById("lowerRightMezzanne").classList.remove('st1');
+          document.getElementById("leftMezzanne").classList.add('purple');
+          document.getElementById("leftMezzanne").classList.remove('st1');
         }} >
     Resize
   </button>
@@ -84,12 +86,26 @@ const BuyTickets = ({seats, total, selected, showSeats, number, showSeatsState, 
  <polygon className="st1" points="677.5,625.7 1269.6,625.7 1323.6,710.1 1262.3,770.1 670.3,771.1 613.4,710.1 "/>
  <polygon className="st0" points="1486.7,471.1 1264,621.1 1328.4,719.8 1468.6,627.6 1512,545.8 "/>
  <polygon className="st1" points="538.7,286.8 611.4,383 504.8,527 423.4,461.8 455.9,330.5 "/>
- <polygon className="st1" points="665,412.3 663,644.3 507,517.9 611.3,374.8 "/>
+ <polygon id="leftMezzanne" data-position="center" data-tooltip="Left Mezzanne" className="purple tooltipped" points="665,412.3 663,644.3 507,517.9 611.3,374.8 " onClick={()=>{
+   showSeats();
+   document.getElementById("leftMezzanne").classList.remove('purple');
+   document.getElementById("leftMezzanne").classList.add('st1');
+   document.getElementById("lowerRightMezzanne").classList.remove('purple');
+   document.getElementById("lowerRightMezzanne").classList.add('st1');
+   document.getElementById('stadium').classList.add('zoom');
+   document.getElementById('stadium').classList.remove('resize');
+   document.getElementById('stadium').classList.remove('antiZoom');
+ }}/>
  <rect x="661.5" y="406.2" className="st0" width="612" height="238.1"/>
  <polygon id="lowerRightMezzanne"data-position="center" data-tooltip="Lower Right Mezzanne" className="purple tooltipped" points="1508.4,314.7 1422.3,273 1304.4,370.9 1431.1,533 1533.9,464.9 " onClick={()=>{
    showSeats();
+   document.getElementById("leftMezzanne").classList.remove('purple');
+   document.getElementById("leftMezzanne").classList.add('st1');
    document.getElementById("lowerRightMezzanne").classList.remove('purple');
    document.getElementById("lowerRightMezzanne").classList.add('st1');
+   document.getElementById('stadium').classList.add('zoom');
+   document.getElementById('stadium').classList.remove('resize');
+   document.getElementById('stadium').classList.remove('antiZoom');
  }}/>
  <rect x="669.2" y="15.8" className="st0" width="591" height="139.3"/>
  <polygon className="st1" points="1362.7,317.9 1290.6,160.2 1193.6,82.5 1061.2,83.3 1110.6,249.1 1088.2,413.3 1268.1,417.4 "/>
@@ -308,19 +324,21 @@ const BuyTickets = ({seats, total, selected, showSeats, number, showSeatsState, 
  <g >
   <line className="st4" x1="661.8" y1="415.9" x2="662.4" y2="624.9"/>
   <line className="st4" x1="661.8" y1="415.9" x2="616.7" y2="385.1"/>
-  <circle id="B-63" className="st4" cx="605.2" cy="435.7" r="14"/>
-  <circle id="B-62" className="st4" cx="633.5" cy="452.6" r="14"/>
-  <circle id="C-51" className="st4" cx="586.3" cy="461.5" r="14"/>
-  <circle id="C-50" className="st4" cx="613.8" cy="478" r="14"/>
-  <circle id="D-49" className="st4" cx="567.6" cy="488.9" r="14"/>
-  <circle id="D-48" className="st4" cx="596.3" cy="507.2" r="14"/>
-  <circle id="E-51" className="st4" cx="551.2" cy="516.4" r="14"/>
-  <circle id="E-50" className="st4" cx="579.8" cy="534.7" r="14"/>
-  <circle id="D-47" className="st4" cx="622.5" cy="526.9" r="14"/>
-  <circle id="C-49" className="st4" cx="639.4" cy="498.5" r="14"/>
-  <circle id="E-49" className="st4" cx="604.8" cy="554.7" r="14"/>
-  <circle id="E-48" className="st4" cx="631.2" cy="575" r="14"/>
-  <circle id="A-51" className="st4" cx="621.7" cy="409.2" r="14"/>
+ {
+   seats.map((seat)=>{
+    if(showSeatsState){
+      if(seat.zone === 'Left Mezzanne'){
+      if(seat.selection){
+        return <circle key={seat.code} id={seat.id} className="gainsboro tooltipped" data-position="top" data-tooltip="I am a tooltip" cx={seat.cx} cy={seat.cy} r="14"/>
+       }else{
+       return <circle key={seat.code} className="tooltipped" data-position="top" data-tooltip={seat.zone+ '/' + seat.category +': $' + seat.value} id={seat.id} fill={seat.color} cx={seat.cx} cy={seat.cy} r="14" onClick={(event)=>{
+         selected(seat.id);
+       }}/>
+     }
+    }
+   } 
+  }) 
+ }
  </g>
  <line className="st4" x1="616.7" y1="385.1" x2="522" y2="514.5"/>
  <line className="st4" x1="662.4" y1="624.9" x2="522" y2="514.5"/>
@@ -425,6 +443,7 @@ const BuyTickets = ({seats, total, selected, showSeats, number, showSeatsState, 
   { 
     seats.map((seat)=>{
       if(showSeatsState){
+        if(seat.zone === 'Lower Right Mezzanne'){
         if(seat.selection){
           return <circle key={seat.code} id={seat.id} className="gainsboro tooltipped" data-position="top" data-tooltip="I am a tooltip" cx={seat.cx} cy={seat.cy} r="14"/>
          }else{
@@ -432,7 +451,8 @@ const BuyTickets = ({seats, total, selected, showSeats, number, showSeatsState, 
            selected(seat.id);
          }}/>
        }
-      } 
+      }
+     } 
     }) 
     
    }
@@ -746,7 +766,7 @@ const BuyTickets = ({seats, total, selected, showSeats, number, showSeatsState, 
             }
           })
           if(selectedSeatArr.length === 0){
-            alert('compraa algo')
+            alert('Porfavor elija sus asientos antes de continuar')
           } else {
             alert('compra exitosa');
           }
