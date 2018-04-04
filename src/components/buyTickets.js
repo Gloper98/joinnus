@@ -1,23 +1,35 @@
 import React from 'react';
 
-const BuyTickets = ({seats, total, selected, showSeats, number, showSeatsState}) => {
+const BuyTickets = ({seats, total, selected, showSeats, number, showSeatsState, hideSeats}) => {
+  
+  
+
   return(
     <div className="col s12">  
       <div className="card">
         <div className="card-image">
         <button id="plus" className="btn waves-effect waves-light plusBtn grey darken-4" onClick={()=>{
-          alert("pluuuus");
-        }}>
+          document.getElementById('stadium').classList.add('zoom');
+          document.getElementById('stadium').classList.remove('resize');
+          document.getElementById('stadium').classList.remove('antiZoom');
+        }} >
     <i className="material-icons">add</i>
   </button>
-  <button className="btn waves-effect waves-light resizeBtn orange lighten-2" onClick={()=>{
-          alert("resiizeeee");
-        }}>
+  <button id="resize" className="btn waves-effect waves-light resizeBtn orange lighten-2"  onClick={()=>{
+          document.getElementById('stadium').classList.remove('zoom');
+          document.getElementById('stadium').classList.remove('resize');
+          document.getElementById('stadium').classList.add('antiZoom');
+          hideSeats();
+          document.getElementById("lowerRightMezzanne").classList.add('purple');
+          document.getElementById("lowerRightMezzanne").classList.remove('st1');
+        }} >
     Resize
   </button>
-  <button className="btn waves-effect waves-light antiplusBtn grey darken-4" onClick={()=>{
-          alert("remooooveeee");
-        }}>
+  <button id="minor" className="btn waves-effect waves-light antiplusBtn grey darken-4"  onClick={()=>{
+          document.getElementById('stadium').classList.remove('zoom');
+          document.getElementById('stadium').classList.remove('antiZoom');
+          document.getElementById('stadium').classList.add('resize');
+        }} >
     <i className="material-icons">remove</i>
   </button>
   <div className="center-align title">
@@ -25,7 +37,7 @@ const BuyTickets = ({seats, total, selected, showSeats, number, showSeatsState})
   </div>
     <div className="card descriptionCard">
       <div className="card-image">
-        <img src="https://images.arcadis.com/media/E/9/3/%7BE93ED2A3-A936-4389-9ED1-99D5C4067F26%7Dhong-kong-jockey-club-main1.jpg?width=1200&height=1200&mode=crop&anchor=top"/>
+        <img src="https://images.arcadis.com/media/E/9/3/%7BE93ED2A3-A936-4389-9ED1-99D5C4067F26%7Dhong-kong-jockey-club-main1.jpg?width=1200&height=1200&mode=crop&anchor=top" alt="image7"/>
       </div>
         <ul className="collapsible">
   <li>
@@ -58,6 +70,7 @@ const BuyTickets = ({seats, total, selected, showSeats, number, showSeatsState})
   </li>
 </ul>
     </div>
+    <div id="svgImage">
         <svg version="1.1" id="stadium" x="0px" y="0px"
  viewBox="0 0 1920 1080">
  <rect x="566.6" y="674.5" className="st0" width="160" height="122"/>
@@ -421,6 +434,7 @@ const BuyTickets = ({seats, total, selected, showSeats, number, showSeatsState})
        }
       } 
     }) 
+    
    }
   
  </g>
@@ -690,6 +704,7 @@ const BuyTickets = ({seats, total, selected, showSeats, number, showSeatsState})
  <line className="st4" x1="1414.8" y1="511.8" x2="1289.1" y2="605.2"/>
  </g>
  </svg>
+ </div>
           </div>
           <div className="card-content grey lighten-3 align-center t-container">
           </div>
@@ -713,25 +728,36 @@ const BuyTickets = ({seats, total, selected, showSeats, number, showSeatsState})
       <div className="card">
         <div className="card-content">
           <span className="card-title">LP Tour: Laura Pergolizzi</span>
-          <img className="ticketImg" src="https://images-na.ssl-images-amazon.com/images/I/C1PasNDgbZS._CR0,0,3840,2880_._SL1000_.png" />
+          <img className="ticketImg" src="https://images-na.ssl-images-amazon.com/images/I/C1PasNDgbZS._CR0,0,3840,2880_._SL1000_.png" alt="image2"/>
           <p>3rd May 2018</p>
           <p>{number} Tickets: ${
             total
           }.00</p>
         </div>
         <div>
-          <img className="barCode" src="https://lh6.googleusercontent.com/FhRZoY78HZV1DhngU6G4TsXkuf0KnGWdSuwovCTnCimb3x5yu6Rm74Wp2NAGrI5cd6BYdekmi9XsA2ezDdOtTFHA06QZ_v-4NojUby2z9-mJr1t11464ssaYNWw2T9ct0K5ns3aM"/>
+          <img className="barCode" src="https://lh6.googleusercontent.com/FhRZoY78HZV1DhngU6G4TsXkuf0KnGWdSuwovCTnCimb3x5yu6Rm74Wp2NAGrI5cd6BYdekmi9XsA2ezDdOtTFHA06QZ_v-4NojUby2z9-mJr1t11464ssaYNWw2T9ct0K5ns3aM" alt="image4"/>
         </div>
         <div className="card-action">
-        <button className="btn waves-effect waves-light" type="submit" name="action">get tickets
+        <button className="btn waves-effect waves-light" type="submit" name="action" onClick={()=>{
+          let selectedSeatArr=[];
+          seats.map((selectedSeat)=>{
+            if(selectedSeat.color === 'lime'){
+              selectedSeatArr.push(selectedSeat);
+            }
+          })
+          if(selectedSeatArr.length === 0){
+            alert('compraa algo')
+          } else {
+            alert('compra exitosa');
+          }
+        }}>get tickets
     <i className="material-icons right">attach_money</i>
   </button>
         </div>
       </div>
     </div>
   </div>
-            
-          </div>
+  </div>
    </div>
   )
 }
